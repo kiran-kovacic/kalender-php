@@ -1,1 +1,1 @@
-[Trello](https://trello.com/b/ZXM8Ks2x/verjaardagskalender)
+Vergeet niet de config.php voor gebruik aan te passen aan jouw AMPPS omgeving.
